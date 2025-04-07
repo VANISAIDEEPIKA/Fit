@@ -1,0 +1,8 @@
+streamlit
+numpy
+pandas
+matplotlib
+seaborn
+train_test_split
+RandomForestRegressor
+mean_squred_error
